@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fishertask3/static/css/main.f45e64f2.chunk.css",
+    "main.js": "/fishertask3/static/js/main.ebe3008c.chunk.js",
+    "main.js.map": "/fishertask3/static/js/main.ebe3008c.chunk.js.map",
+    "runtime-main.js": "/fishertask3/static/js/runtime-main.4c32b9df.js",
+    "runtime-main.js.map": "/fishertask3/static/js/runtime-main.4c32b9df.js.map",
+    "static/js/2.93f5c2eb.chunk.js": "/fishertask3/static/js/2.93f5c2eb.chunk.js",
+    "static/js/2.93f5c2eb.chunk.js.map": "/fishertask3/static/js/2.93f5c2eb.chunk.js.map",
+    "index.html": "/fishertask3/index.html",
+    "precache-manifest.263b972c01a719de4b82479d6f8e5cb2.js": "/fishertask3/precache-manifest.263b972c01a719de4b82479d6f8e5cb2.js",
+    "service-worker.js": "/fishertask3/service-worker.js",
+    "static/css/main.f45e64f2.chunk.css.map": "/fishertask3/static/css/main.f45e64f2.chunk.css.map",
+    "static/js/2.93f5c2eb.chunk.js.LICENSE.txt": "/fishertask3/static/js/2.93f5c2eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c32b9df.js",
+    "static/js/2.93f5c2eb.chunk.js",
+    "static/css/main.f45e64f2.chunk.css",
+    "static/js/main.ebe3008c.chunk.js"
+  ]
+}
